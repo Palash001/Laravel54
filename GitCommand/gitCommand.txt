@@ -1,0 +1,13 @@
+git init
+
+git remote add origin address
+
+git checkout -b branchName
+
+git add .
+
+git commit -m "Added"
+
+git push 
+
+git push -u origin BranchName
