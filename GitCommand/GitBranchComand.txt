@@ -1,0 +1,15 @@
+Create a new branch:
+
+* git checkout -b feature_branch_name
+
+* git add . or folder name
+
+* git commit -m "Added"
+
+*git push  https://github.com/Palash001/L-Framework.git CodeBranch(BranchName).
+
+*git push -u origin CodeBranch(NewBranch).
+
+Edit, add and commit your files.
+Push your branch to the remote repository:
+git push -u origin feature_branch_name
